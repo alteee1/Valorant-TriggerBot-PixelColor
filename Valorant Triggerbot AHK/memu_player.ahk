@@ -15,7 +15,7 @@ SoundBeep, 300, 200
 SoundBeep, 400, 200
 
 ;HOTKEYS
-key_stay_on	:= 	"F1"		; self explanatory		
+key_stay_on	:= 	"Tab"		; self explanatory		
 key_hold_mode	:= 	"F2"		; scan will only scan if "key_hold" is pressed
 key_fastclick 	:= 	"F3"		; self explanatory (on/off beep sound only)
 key_off		:= 	"F4"		; self explanatory	
